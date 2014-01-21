@@ -15,3 +15,13 @@ Outputs HTML like:
 
 
 Copyright (c) 2010 [Jared McFarland], released under the MIT license
+
+<table>
+  <tr>
+    <td>Foo</td>
+    <td>Bar</td>
+  </tr>
+  <tr>
+    <td colspan=2>Foo bar!</td>
+  </tr>
+</table
