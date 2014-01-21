@@ -5,6 +5,7 @@ Created to replace the default ActionView::Helpers::InstanceTag.error_wrapping w
 
 Outputs HTML like:
 
+```
 <span class="errorLabel">
 	<label for="name">Name</label>
 </span>
@@ -12,16 +13,6 @@ Outputs HTML like:
 	<input type="text" value="" size="30" name="name" id="name"> 
 	<span class="errorMessages">can't be blank</span>
 </div>
-
+```
 
 Copyright (c) 2010 [Jared McFarland], released under the MIT license
-
-<table>
-  <tr>
-    <td>Foo</td>
-    <td>Bar</td>
-  </tr>
-  <tr>
-    <td colspan=2>Foo bar!</td>
-  </tr>
-</table
